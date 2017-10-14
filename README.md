@@ -1,2 +1,2 @@
-# udacity-neighborhood-map-project
-Neighborhood_project
+# Udacity Neighborhoo Map project
+## Neighborhood project by Bhanu Singh

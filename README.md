@@ -1,11 +1,11 @@
 # Udacity Neighborhoo Map project
 ## Neighborhood project by Bhanu Singh
 
-1. Basic Description
+## Basic Description
 - This project is SAP using Google Maps API to display the Sacramento, CA area.
 - The markers display many of the monuments and main attractions of the Sacramento, CA area. 
 
-2. Functionality of the page includes:
+## Functionality of the page includes:
 
 ## Sources:
 - [Jquery Documents](http://api.jquery.com/)
@@ -14,7 +14,8 @@
 - To get an API GeiCoder Tool: [click Here](https://google-developers.appspot.com/maps/documentation/utils/geocoder/#q%3D38.451803%252C-121.373179)
 - TO Get an API Key: [Click Here](https://developers.google.com/maps/web/)
 
-## This Picture shows the markers 
+## Functionality of the page includes:
+#### This Picture shows the markers 
 ### ![udacity project](https://user-images.githubusercontent.com/24472965/31583410-0ac1c79a-b150-11e7-886e-1485fda60b45.PNG)
-## This Picture shows the market windows with the adress and street view
-### ![cap1](https://user-images.githubusercontent.com/24472965/31583458-46509650-b151-11e7-8df5-51b951fc4b3a.PNG)
+### This Picture shows the market windows with the adress and street view
+#### ![cap1](https://user-images.githubusercontent.com/24472965/31583458-46509650-b151-11e7-8df5-51b951fc4b3a.PNG)

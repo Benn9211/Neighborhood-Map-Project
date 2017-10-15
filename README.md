@@ -1,7 +1,7 @@
 # Udacity Neighborhoo Map project
 ## Neighborhood project by Bhanu Singh
 
-1. Follow the link to open the project:[Click Here](http://dsbotta.github.io/Neighborhood-Map)
+1. Follow the link to open the project:[Click Here](http://Benn9211.github.io/Udacity-Neighborhood-Map-Project)
 
 2. Basic Description
 This project is SAP using Google Maps API to display the Washington DC area.<br/>

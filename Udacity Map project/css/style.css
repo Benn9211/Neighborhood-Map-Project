@@ -1,0 +1,113 @@
+
+      body {
+        font-family: Arial, sans-serif;
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: #a9a9a9;
+      }
+      html {
+        font-family: Arial, sans-serif;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      .container {
+        height: 100%;
+        position: relative;
+      }
+
+      input {
+        font-size: 12px;
+      }
+
+      h1 {
+        color: #525454;
+        font-size: 22px;
+        margin: 0 0 10px 0;
+        text-align: center;
+      }
+
+      #hide-listings,
+      #show-listings {
+        width: 48%;
+      }
+
+      #map {
+        bottom:125px;
+        height: 100%;
+        left: 350px;
+        right: 5px;
+        position: absolute;
+        right: 0px;
+      }
+
+      .options-box {
+        background: #fff;
+        border: 1px solid #999;
+        border-radius: 1px;
+        height: 250%;
+        line-height: 36px;
+        padding: 0px 0px 6px 0px;
+        padding-color:gray;
+        text-align: left;
+        width: 335px;
+        background-color: #a9a9a9;
+
+      }
+
+      #pano {
+        width: 200px;
+        height: 200px;
+      }
+
+      #places-search,
+      #search-within-time-text {
+        width: 80%;
+      }
+
+      .text {
+        font-size: 11px;
+      }
+
+      #toggle-drawing {
+        width: 32%;
+        position: relative;
+        margin-left: 2px;
+      }
+
+      #zoom-to-area-text {
+        width: 80%;
+      }
+
+      #zoom-to-area {
+        width: 25%;
+      }
+        /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+    .row.content {height: 100%}
+
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      height: auto;
+      color: white;
+      padding: 0px 0px 0px 0px;
+      width:
+    }
+
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 0px 0px 0px 0px;
+      }
+      .row.content {height: auto;}
+    }

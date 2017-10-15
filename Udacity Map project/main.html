@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <nav>
+
+    </nav>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/res.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+  <body>
+    <div class="container-fluid">
+      <div class="row content">
+        <div class="col-sm-3 sidenav">
+      <div class="options-box">
+        <h1>Neighborhood Map Udacity</h1>
+        <div>
+          <input id="show-listings" type="button" value="Show Listings">
+          <input id="hide-listings" type="button" value="Hide Listings">
+          <hr>
+          <span class="text">Draw a shape to search within it for homes!</span>
+          <input id="toggle-drawing"  type="button" value="Drawing Tools">
+        </div>
+        <hr>
+        <input id="zoom-to-area-text" type="text" placeholder="Enter your favorite area!">
+          <input id="zoom-to-area" type="button" value="Zoom">
+      <div>
+        <hr>
+          <span class="text"> Within </span>
+          <select id="max-duration">
+            <option value="10">10 min</option>
+            <option value="15">15 min</option>
+            <option value="30">30 min</option>
+            <option value="60">1 hour</option>
+          </select>
+          <select id="mode">
+            <option value="DRIVING">Drive</option>
+            <option value="WALKING">Walk</option>
+            <option value="BICYCLING">Bike</option>
+            <option value="TRANSIT">Transit Ride</option>
+          </select>
+          <span class="text">of</span>
+          <input id="search-within-time-text" type="text" placeholder="Ex:Office SAC or 8377 Elk Grove Florin Rd, Sacramento, CA">
+          <input id="search-within-time" type="button" value="Go">
+          <hr>
+        <div>
+          <span class="text">Search for Nearby Places</span>
+          <input id="places-search" type="text" placeholder="Ex: Pizza delivery in Sacramento">
+          <input id="go-places" type="button" value="Go">
+          <hr>
+        </div>
+        </div>
+        </div>
+        </div>
+      </div>
+      <div id="map">
+      </div>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <script src="js/jquery.js"></script>
+      <script src="js/map.js"></script>
+      <script async defer src="https://maps.googleapis.com/maps/api/js?libraries=places,geometry,drawing&key=AIzaSyAmsm4NfFInX2pVW3uXcoL8OK1WaMsEFlw&v=3&callback=initMap">
+    </script>
+  </body>
+  <footer class="container-fluid text-center">
+  <p>Online Store Copyright</p>
+  <form class="form-inline">Your Comment:
+    <textarea type="Coment" class="form-control" size="50" placeholder="Type Your Comment "></textarea>
+    <button type="button" class="btn btn-danger">Submit</button>
+  </form>
+</footer>
+  </html>

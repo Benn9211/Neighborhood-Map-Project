@@ -5,8 +5,6 @@
 - This project is SAP using Google Maps API to display the Sacramento, CA area.
 - The markers display many of the monuments and main attractions of the Sacramento, CA area. 
 
-## Functionality of the page includes:
-
 ## Sources:
 - [Jquery Documents](http://api.jquery.com/)
 - For Cool new idas about Bootstrap/html&CSS or JavaScript very helpful source: [Click Here](http://www.w3schools.com/)

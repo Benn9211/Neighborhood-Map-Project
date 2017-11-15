@@ -1,7 +1,7 @@
 # Udacity Neighborhoo Map Project
 ## Neighborhood project by Bhanu Singh
 
-## Basic Description
+##  Basic Description
 - This project is SAP using Google Maps API to display the Sacramento, CA area.
 - The markers display many of the monuments and main attractions of the Sacramento, CA area. 
 

@@ -1,4 +1,4 @@
-# Udacity Neighborhoo Map Project
+# Udacity Neighborhood Map Project
 ## Neighborhood project by Bhanu Singh
 
 ##  Basic Description

@@ -3,7 +3,7 @@
 
 ##  Basic Description
 - This project is SAP using Google Maps API to display the Sacramento, CA area.
-- The markers display many of the monuments and main attractions of the Sacramento, CA area. 
+- The markers display many of the monuments and main attractions of the Sacramento, CA area.
 
 ## Sources:
  - To access the live repository: [Click Here](https://benn9211.github.io/Udacity-Neighborhood-Map-Project/) 
